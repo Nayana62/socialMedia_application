@@ -8,7 +8,8 @@ KEY FEATURES:
 - Designed a home page that displays posts from followed users, promoting a customized and engaging feed.
 - Integrated like/dislike functionality for posts, enabling users to interact with and express their preferences.
 - Added realitime chat functionality with other users using socket.io.
-Tech Stack: ReactJS, React Router, React Redux, Redux Thunk, Express, MongoDB, JWT, bcrypt, Socket.IO.
+
+  Tech Stack: ReactJS, React Router, React Redux, Redux Thunk, Express, MongoDB, JWT, bcrypt, Socket.IO.
 
 -----------------------
 
